@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION'
+define service ZMM_VENDOR_MASTER_DEF {
+  expose ZMM_VENDOR_MASTER_FINAL;
+}

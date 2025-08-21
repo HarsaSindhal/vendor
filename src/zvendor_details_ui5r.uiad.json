@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "VENDOR DETAILS",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "VENDOR DETAILS"
+  },
+  "ui5AppDetails": {
+    "appId": "zvendordetails"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_528C7524976AD03D72FA5CB239FDB9280B2A7D81_TM",
+    "semanticObject": "zvendor_details",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_528C7524976AD03D72FA5CB239FDB9280B2A7D81_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "VENDOR DETAILS",
+        "subtitle": "MM"
+      }
+    }
+  ]
+}
